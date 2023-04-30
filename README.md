@@ -7,5 +7,5 @@
 - [Setup Azure SQL Server](https://github.com/rawatsudhir1/MpurviewVnet/blob/main/documents/Setup_Azure_SQL_Server.pdf)
 <br>
 ###### Step 3 <br>
-- [Setup Microsoft Purview Account](https://learn.microsoft.com/en-us/azure/purview/create-microsoft-purview-portal)
+- [Setup Microsoft Purview Account](https://learn.microsoft.com/en-us/azure/purview/create-microsoft-purview-portal) 
 
